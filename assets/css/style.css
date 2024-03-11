@@ -1,14 +1,14 @@
 @font-face {
-  font-family: "Ladna""Turist";
+  font-family: "LadnaR";
   /* font-family: "Riccione" */
-  src: url("fonts/Ladna-Regular.woff2");
+  src: url("@/fonts/Ladna-Regular.woff2");
   /* src: url("Riccione-Light.") */
 }
 
 @font-face {
   font-family: "LadnaM";
   /* font-family: "Riccione" */
-  src: url("/fonts/Ladna-Medium.woff2");
+  src: url("@/fonts/Ladna-Medium.woff2");
   /* src: url("Riccione-Light.") */
 }
 
@@ -51,7 +51,7 @@ footnote {
   cursor: pointer;
   /* color: orangered; */
   background-color: orangered;
-  font-family: ladna;
+  font-family: 'ladnam';
   font-weight: bold;
   padding-left: 0.1rem;
   padding-right: 0.04rem;
@@ -120,6 +120,8 @@ main: :not(h2) {
 
 p {
   padding-left: 50vw;
+  font-family: "Ladna";
+  font-weight: 500;
   padding-top: -2rem;
 }
 
