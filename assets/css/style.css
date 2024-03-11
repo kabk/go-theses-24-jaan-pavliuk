@@ -28,7 +28,7 @@
 
 body {
   font-size: 1rem;
-  font-family: "Ladna";
+  font-family: "LadnaM";
   line-height: 1.3rem;
   text-align: left;
   letter-spacing: -0.02rem;
@@ -51,7 +51,7 @@ footnote {
   cursor: pointer;
   /* color: orangered; */
   background-color: orangered;
-  font-family: 'ladna';
+  font-family: 'ladnaM';
   font-weight: bold;
   padding-left: 0.1rem;
   padding-right: 0.04rem;
