@@ -120,8 +120,9 @@ main: :not(h2) {
 
 p {
   padding-left: 50vw;
-  font-family: "Ladna";
-  font-weight: 500;
+  /* font-family: "Ladna"; */
+  /* font-weight: 500; */
+  font-family: "Ladnam";
   padding-top: -2rem;
 }
 
