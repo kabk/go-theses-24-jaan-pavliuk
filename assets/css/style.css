@@ -199,7 +199,7 @@ h1 {
   line-height: 13.5vw;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   padding-top: 1vw;
-  background-image: url('images/background.png');
+  /* background-image: url('images/background.png'); */
   /* Specify the path to your image */
   background-size: cover;
   /* Ensure the image covers the entire h1 element */
@@ -454,7 +454,7 @@ p.epilogue {
     line-height: 13.5vw;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding-top: 1vw;
-    background-image: url('images/background.png');
+    /* background-image: url('images/background.png'); */
     /* Specify the path to your image */
     background-size: cover;
     /* Ensure the image covers the entire h1 element */
