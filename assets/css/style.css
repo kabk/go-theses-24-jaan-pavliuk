@@ -51,7 +51,7 @@ footnote {
   cursor: pointer;
   /* color: orangered; */
   background-color: orangered;
-  font-family: 'ladnam';
+  font-family: 'ladna';
   font-weight: bold;
   padding-left: 0.1rem;
   padding-right: 0.04rem;
@@ -121,8 +121,8 @@ main: :not(h2) {
 p {
   padding-left: 50vw;
   /* font-family: "Ladna"; */
-  /* font-weight: 500; */
-  font-family: "Ladnam";
+  font-weight: 500;
+  font-family: "Ladna";
   padding-top: -2rem;
 }
 
