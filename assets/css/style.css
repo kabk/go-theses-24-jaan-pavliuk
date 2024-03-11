@@ -359,13 +359,15 @@ p.first {
 
 }
 
-p.bib {
+.bib {
   text-indent: 0rem;
   margin-left: -49vw;
-  padding-right: 1rem !important;
+  margin-right: 1rem !important;
+  margin-bottom: ;
   /* padding-top: 4rem; */
   padding-top: 1.9rem;
   color: grey;
+  font-weight: 500;
   text-align: justify;
   padding-top: -50rem;
 }
