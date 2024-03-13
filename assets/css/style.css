@@ -1,15 +1,11 @@
 @font-face {
   font-family: "LadnaR";
-  /* font-family: "Riccione" */
-  src: url("/fonts/Ladna-Regular.woff2");
-  /* src: url("Riccione-Light.") */
+  src: url("/fonts/Ladna-Regular.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "LadnaM";
-  /* font-family: "Riccione" */
-  src: url("/fonts/Ladna-Medium.woff2");
-  /* src: url("Riccione-Light.") */
+  src: url("/fonts/Ladna-Medium.woff2") format("woff2");
 }
 
 
