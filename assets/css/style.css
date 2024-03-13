@@ -51,7 +51,7 @@ footnote {
   cursor: pointer;
   /* color: orangered; */
   background-color: orangered;
-  font-family: 'ladnaM';
+  font-family: 'ladna';
   font-weight: bold;
   padding-left: 0.1rem;
   padding-right: 0.04rem;
@@ -361,7 +361,7 @@ p.first {
 
 .bib {
   text-indent: 0rem;
-  margin-left: -49vw;
+  margin-left: 1rem;
   margin-right: 1rem !important;
   margin-bottom: ;
   /* padding-top: 4rem; */
