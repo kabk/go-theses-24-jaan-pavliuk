@@ -468,6 +468,10 @@ p.epilogue {
     margin: 0;
   }
 
+  main {
+    overflow: hidden;
+  }
+
   img {
     min-width: 100% !important;
     height: auto;
