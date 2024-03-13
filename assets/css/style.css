@@ -1,11 +1,13 @@
 @font-face {
-  font-family: "LadnaR";
-  src: url("/fonts/Ladna-Regular.woff2") format("woff2");
+  font-family: 'Ladna';
+  src: url("/fonts/Ladna-Medium.woff2") format("woff2");
+  font-weight: normal;
 }
 
 @font-face {
-  font-family: "LadnaM";
-  src: url("/fonts/Ladna-Medium.woff2") format("woff2");
+  font-family: 'Ladna';
+  src: url("/fonts/Ladna-Bold.woff2") format("woff2");
+  font-weight: bold;
 }
 
 
