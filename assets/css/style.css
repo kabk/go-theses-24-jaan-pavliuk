@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'Ladna';
-  src: url("/fonts/Ladna-Medium.woff2") format("woff2");
+  src: url("fonts/Ladna-Medium.woff2") format("woff2");
   font-weight: normal;
 }
 
 @font-face {
   font-family: 'Ladna';
-  src: url("/fonts/Ladna-Bold.woff2") format("woff2");
+  src: url("fonts/Ladna-Bold.woff2") format("woff2");
   font-weight: bold;
 }
 
@@ -64,7 +64,7 @@ footnote {
   max-height: 0;
   opacity: 0;
   font-weight: bold;
-  font-family: Ladna;
+  font-family: ladna;
   transition: max-width 0.2s ease;
   color: black;
   text-align: center;
