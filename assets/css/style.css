@@ -472,6 +472,10 @@ p.epilogue {
     overflow: hidden;
   }
 
+  body {
+    overflow: hidden;
+  }
+
   img {
     min-width: 100% !important;
     height: auto;
@@ -489,6 +493,7 @@ p.epilogue {
     margin: 0;
     text-align: center;
     margin-top: 5rem;
+    overflow: hidden;
   }
 
   h3 {
@@ -496,6 +501,7 @@ p.epilogue {
     padding: 1rem;
     font-size: large;
     margin: 0;
+    overflow: hidden;
   }
 
   .titletext {
