@@ -473,7 +473,7 @@ p.epilogue {
   }
 
   body {
-    overflow: hidden;
+    /* overflow: hidden; */
   }
 
   img {
@@ -482,7 +482,9 @@ p.epilogue {
   }
 
   h1 {
-    font-size: 5rem;
+    font-size: 4rem;
+    line-height: 3.3rem;
+    padding-right: 2rem;
   }
 
   h2 {
@@ -493,7 +495,7 @@ p.epilogue {
     margin: 0;
     text-align: center;
     margin-top: 5rem;
-    overflow: hidden;
+    /* overflow: hidden; */
   }
 
   h3 {
@@ -501,7 +503,20 @@ p.epilogue {
     padding: 1rem;
     font-size: large;
     margin: 0;
-    overflow: hidden;
+    /* overflow: hidden; */
+  }
+
+  h5 {
+    font-size: 1.2rem;
+    line-height: 1.1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 5rem;
+  }
+
+  h6 {
+    padding-top: 11rem;
+    padding-bottom: 5rem;
   }
 
   .titletext {
@@ -525,11 +540,15 @@ p.epilogue {
   .bib {
     font-size: small;
     padding-left: 1rem;
+    margin-top: -2rem;
   }
 
   .foot {
     text-indent: -2rem;
     padding-left: 2rem;
     margin-right: 2rem;
+    padding-top: -1rem;
+    text-align: left;
+    line-height: 1.3rem;
   }
 }
