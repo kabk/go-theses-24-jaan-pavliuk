@@ -482,9 +482,26 @@ p.epilogue {
   }
 
   h1 {
-    font-size: 4rem;
-    line-height: 3.3rem;
+    font-size: 3.5rem;
+    line-height: 3rem;
     padding-right: 2rem;
+    /* padding-top: 41rem; */
+    /* box-shadow: 0; */
+
+
+  }
+
+  .header {
+    height: 97vh;
+    background-image: url('images/background.png');
+    background-size: 100%;
+    background-position: right;
+    color: whitesmoke;
+    /* Add other styles as needed */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   h2 {
@@ -504,6 +521,12 @@ p.epilogue {
     font-size: large;
     margin: 0;
     /* overflow: hidden; */
+  }
+
+  h4 {
+    font-size: 0.6rem;
+    padding-right: 2rem;
+    /* padding-top: 41rem; */
   }
 
   h5 {
