@@ -481,12 +481,16 @@ p.epilogue {
     height: auto;
   }
 
+  .bib {
+    text-align: left;
+  }
+
   h1 {
     font-size: 3.5rem;
     line-height: 3rem;
     padding-right: 2rem;
     /* padding-top: 41rem; */
-    /* box-shadow: 0; */
+    box-shadow: 0;
 
 
   }
@@ -546,9 +550,11 @@ p.epilogue {
     display: none;
   }
 
+
+
   nav>div {
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
     letter-spacing: normal;
     line-height: 20px;
     font-family: ladna;
